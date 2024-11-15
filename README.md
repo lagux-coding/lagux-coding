@@ -68,10 +68,8 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux" />
     </a>
-    <code>
       <img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/>
-    </code>
-    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code>
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
   </div>
 </p>
 
