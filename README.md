@@ -75,4 +75,8 @@
   </div>
 </p>
 
+<div name="line">
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lagux-coding&show_icons=true&locale=en&layout=compact" alt="lagux-coding" /></p>
