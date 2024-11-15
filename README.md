@@ -18,7 +18,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="nguyenhientrungnam@gmail.com" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/nam1001d/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" height="40" width="40" />
 </a>
 <p align="left">
 </p>
