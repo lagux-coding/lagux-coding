@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:your-email@example.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your-email@example.com" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="nguyenhientrungnam@gmail.com" height="30" width="40" />
 </a>
 <p align="left">
 </p>
