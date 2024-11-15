@@ -30,22 +30,25 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring, maven, hibernate" />
+    <img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css, js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
 
 - Database
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql" />
+    </a>
+    <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/>
+  </div>
 </p>
 
 - CI/CD
@@ -68,7 +71,6 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux" />
     </a>
-      <img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/>
       <img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
   </div>
 </p>
