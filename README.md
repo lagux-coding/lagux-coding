@@ -23,15 +23,6 @@
 <p align="left">
 </p>
 
-<p align="left">
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql" />
-    </a>
-    <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/>
-  </div>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <div style="display: flex; align-items: center; justify-content: center;">
