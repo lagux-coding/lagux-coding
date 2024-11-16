@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Trung Nam</h1>
-<h3 align="center">Java Backend Engineer | Enthusiastic about Cloud Deployment</h3>
+<h3 align="center">Java Backend Engineer | Exploring Deployment Strategies</h3>
 
 <h4 align="center">Passionate about building scalable applications and leveraging cloud technologies to enhance performance and reliability.</h4>
 
