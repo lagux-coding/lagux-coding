@@ -23,28 +23,6 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java" />
-  </a>
-</p>
-
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />
-  </a>
-</p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
-  </a>
-</p>
-
-- Database
 <p align="left">
   <div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://skillicons.dev">
@@ -54,28 +32,30 @@
   </div>
 </p>
 
-- CI/CD
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins" />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux" />
-    </a>
-      <img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
-  </div>
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=c,cs,java" />
+        </a>
+        <img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />
+        <img src="https://skillicons.dev/icons?i=html,css,js" />
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mysql" />
+        </a>
+        <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/>
+        <img src="https://skillicons.dev/icons?i=jenkins" />
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=aws" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=aws" />
+        </a>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux" />
+        </a>
+        <img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
+    </div>
 </p>
 
 <div name="line">
