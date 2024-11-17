@@ -40,9 +40,6 @@
             <img src="https://skillicons.dev/icons?i=aws" />
         </a>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=aws" />
-        </a>
-        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux" />
         </a>
         <img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
