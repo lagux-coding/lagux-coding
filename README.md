@@ -13,6 +13,9 @@
 
 - 📫 How to reach me **nguyenhientrungnam@gmail.com**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <!-- Instagram Icon -->
@@ -45,4 +48,6 @@
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lagux-coding&show_icons=true&locale=en&layout=compact&theme=dark" alt="lagux-coding" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lagux-coding&show_icons=true&locale=en&layout=compact&theme=dark" alt="lagux-coding" />
+</p>
+
