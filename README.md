@@ -14,40 +14,35 @@
 - 📫 How to reach me **nguyenhientrungnam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<a href="mailto:your-email@example.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="nguyenhientrungnam@gmail.com" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/nam1001d/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" height="40" width="40" />
-</a>
 <p align="left">
+    <!-- Instagram Icon -->
+    <a href="https://www.instagram.com/nam1001d" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="Instagram" height="33" width="38" />
+    </a>
+    <!-- Facebook Icon -->
+    <a href="https://www.facebook.com/Juulse8" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="35" width="40" />
+    </a>
+        <!-- Gmail Icon -->
+    <a href="mailto:nguyenhientrungnam@gmail.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
+    </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <div style="display: flex; align-items: center; justify-content: center;">
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c,cs,java" />
-        </a>
-        <img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />
-        <img src="https://skillicons.dev/icons?i=html,css,js" />
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql" />
-        </a>
-        <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/>
-        <img src="https://skillicons.dev/icons?i=jenkins" />
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=aws" />
-        </a>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux" />
-        </a>
-        <img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
-    </div>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cs,java,spring,maven,hibernate,html,css,js,mysql,jenkins,aws,git,github,docker,figma,idea,vscode,postman,linux" alt="Tools and Technologies" />
+    </a>
+    <!-- MSSQL Icon -->
+    <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="SQL Server" width="48" height="48" />
+    <!-- Swagger Icon -->
+    <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger" width="48" height="48" />
 </p>
 
 <div name="line">
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lagux-coding&show_icons=true&locale=en&layout=compact" alt="lagux-coding" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lagux-coding&show_icons=true&locale=en&layout=compact&theme=dark" alt="lagux-coding" /></p>
