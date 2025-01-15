@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Jenkins, AWS, Docker, Microservice**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://lagux-coding.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://laguxl.github.io/portfolio/)
 
 - 💬 Ask me about **spring boot, java, c, c#(wpf),...**
 
