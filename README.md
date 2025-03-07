@@ -19,7 +19,7 @@
 
 ## **<h3 align="left">Skills</h3>**
 
-<p align="center">
+<p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=java,cs,c,spring,maven,dotnet,html,css,javascript,typescript,npm,react,vite,tailwind,mysql,sqlserver,github,docker,jenkins,aws&perline=10"
