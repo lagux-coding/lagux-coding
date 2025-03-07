@@ -1,58 +1,28 @@
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, Nam here!
-      </h1>
-    </summary>
-  </ul>
-</div>
+[![github-header-image-2.png](https://i.postimg.cc/NMTKk9GY/github-header-image-2.png)](https://postimg.cc/DJvf2zbY)
 
-**<h3 align="left">Connect with me:</h3>** 
+## <h2 align="center">Code - Create - Repeat</h2>
+ <p>Hey there! I'm Nam, a passionate builder who codes for the love of it. I create, innovate, and constantly learn—whether it's web development, software, or anything in between. Exploring <b>TypeScript, React, and Next</b> while sharpening my skills in <b>Java, Spring Boot, JavaScript, AWS EC2</b>—never done learning, but always expanding my horizons.</p>
+
+---
+
+### **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="mailto:nguyenhientrungnam@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/laguxl" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/laguxl_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">Passionate about building scalable applications and leveraging cloud technologies to enhance performance and reliability. Excited to learn new things.</h3>**
+## **<h3 align="left">Skills</h3>**
 
- **<h3 align="left">Skills</h3>**
-
-<div style="display: flex; flex-direction: column; gap: 12px;">
-  <!-- Backend -->
-  <div style="display: flex; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="Java">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="Python">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="44" alt="C#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="44" alt="Spring">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" height="44" alt="ASP.NET">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" height="36" alt="Appwrite" style="margin-right: 4px">
-  </div>
-
-  <!-- Frontend -->
-  <div style="display: flex; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="HTML5">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="CSS3">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" alt="TypeScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="36" alt="React" style="margin-right: 4px"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="36" alt="Vite" style="margin-right: 4px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="Tailwind CSS" style="margin-right: 4px"> 
-  </div>
-
-  <!-- Database -->
-  <div style="display: flex; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="44" alt="MySQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="44" alt="Microsoft SQL Server">
-  </div>
-
-  <!-- Server & DevOps -->
-  <div style="display: flex; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" alt="Docker">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="44" alt="Jenkins">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44" alt="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="44" alt="AWS">
-  </div>
-</div>
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=java,cs,c,spring,maven,dotnet,html,css,javascript,typescript,npm,react,vite,tailwind,mysql,sqlserver,github,docker,jenkins,aws&perline=10"
+    />
+  </a>
+</p>
 
  **<h3 align="left">GitHub Stats</h3>**
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lagux-coding&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+<p style="display: flex">
+  <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs?username=lagux-coding&theme=dark&hide_title=true&layout=compact&langs_count=6&hide_progress=false&card_width=415" alt="GitHub top-langs Card" />
+  
+  <img width=50% src="https://github-readme-stats.vercel.app/api?username=lagux-coding&theme=dark&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&line_height=23&ring_color=ad8fff&icon_color=663399" alt="GitHub stats Card" />
 </p>
+
