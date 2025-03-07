@@ -1,15 +1,28 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lagux-coding/lagux-coding/main/assets/github-header.png" width="100%" alt="GitHub Banner">
-</p>
+# <div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hii, Nam here!
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 
-## <h1 align="center">Code - Create - Repeat</h1>
+## <h2 align="center">Code - Create - Repeat</h2>
  <p>Hey there! I'm Nam, a passionate builder who codes for the love of it. I create, innovate, and constantly learn—whether it's web development, software, or anything in between. Exploring <b>TypeScript, React, and Next</b> while sharpening my skills in <b>Java, Spring Boot, JavaScript, AWS EC2</b>—never done learning, but always expanding my horizons.</p>
 
 ---
 
-### **<h3 align="left">Connect with me:</h3>** 
+## **<h3 align="left">Connect with me</h3>** 
 <p align="left"><a href="mailto:nguyenhientrungnam@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/laguxl" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/laguxl_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
+## **<h3 align="left">Rapid Fire</h3>**
+
+- 💼 Wanna see my portfolio?: **[Porfolio](https://lagux-coding.github.io/portfolio/)** (on working)
+- 📚 See all my repositories: **[Repositories](https://github.com/lagux-coding?tab=repositories)**
+- 🛠️ Currently exploring **TypeScript, React, Next.js,..v.v**
+- ⚡ Code for the love of it… and, well, the job too. 
 
 ## **<h3 align="left">Skills</h3>**
 
