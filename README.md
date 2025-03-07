@@ -1,10 +1,5 @@
-# <div id="toc">
-  <ul align="center" style="list-style: none">
-      <h1>
-        👋 Hii, Nam here!
-      </h1>
-  </ul>
-</div>
+
+# <h1 align="center">👋 Hii, Nam here!</h1>
 
 
 ## <h2 align="center">Code - Create - Repeat</h2>
