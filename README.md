@@ -12,7 +12,7 @@
 
 ## **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 Wanna see my portfolio?: **[Porfolio](https://namht.is-a.dev/)** (on working)
+- 💼 Wanna see my portfolio?: **[Porfolio](https://namht.is-a.dev/)**
 - 📚 See all my repositories: **[Repositories](https://github.com/lagux-coding?tab=repositories)**
 - 🛠️ Currently exploring **TypeScript, React, Next.js,..v.v**
 - ⚡ Code for the love of it… and, well, the job too. 
