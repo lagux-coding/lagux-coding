@@ -29,8 +29,7 @@
 
 ### **<h3 align="left">GitHub Stats</h3>**
 
-<p style="display: flex">
-  <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs?username=lagux-coding&theme=dark&hide_title=true&layout=compact&langs_count=6&hide_progress=false&card_width=415" alt="GitHub top-langs Card" />
-  
-  <img width=50% src="https://github-readme-stats.vercel.app/api?username=lagux-coding&theme=dark&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&line_height=23&ring_color=ad8fff&icon_color=663399" alt="GitHub stats Card" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lagux-coding&theme=dark&hide_title=true&layout=compact&langs_count=6&hide_progress=false&card_width=320" alt="GitHub top-langs Card" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lagux-coding&theme=dark&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&line_height=23&ring_color=ad8fff&icon_color=663399" alt="GitHub stats Card" />
+</a>
