@@ -2,7 +2,7 @@
 
 ### <h2 align="center">Built to build.</h2>
 
- <p>Hey there! I'm Nam, a passionate builder who codes for the love of it. I create, innovate, and constantly learn—whether it's web development, software, or anything in between. Exploring <b>TypeScript, React, and Next</b> while sharpening my skills in <b>Java, Spring Boot, JavaScript, AWS EC2</b>—never done learning, but always expanding my horizons.</p>
+ <p>Hey there! I'm Nam, a passionate builder who codes for the love of it. I create, innovate, and constantly learn—whether it's web development, software, or anything in between. Exploring <b>TypeScript, React, and Next</b> while sharpening my skills in <b>Java, Spring Boot, Dotnet, JavaScript, simple DevOps</b>—never done learning, but always expanding my horizons.</p>
 
 ---
 
