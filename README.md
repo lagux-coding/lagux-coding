@@ -30,6 +30,6 @@
 ### **<h3 align="left">GitHub Stats</h3>**
 
 <a href="https://github.com/lagux-coding/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lagux-coding&theme=dark&hide_title=true&layout=compact&langs_count=8&hide_progress=false&card_width=320" alt="GitHub top-langs Card" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lagux-coding&show_icons=true&theme=transparent&line_height=23" alt="GitHub stats Card" />
+  <img height="200" align="center" style="max-width: 100%; width: 420px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=lagux-coding&theme=dark&hide_title=true&layout=compact&langs_count=8&hide_progress=false&card_width=420" alt="GitHub top-langs Card" />
+  <img height="200" align="center" style="max-width: 100%; width: 420px;" src="https://github-readme-stats.vercel.app/api?username=lagux-coding&show_icons=true&theme=transparent&line_height=23" alt="GitHub stats Card" />
 </a>
