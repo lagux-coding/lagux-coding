@@ -35,8 +35,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=lagux-coding&theme=tokyonight&hide_title=true&layout=compact&langs_count=8&card_width=400" alt="Top Langs" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=lagux-coding&show_icons=true&theme=tokyonight&line_height=22" alt="GitHub Stats" />
+  <img height="200" align="center" style="max-width: 100%; width: 420px;" src="https://github-stats-extended.vercel.app/api/top-langs?username=lagux-coding&theme=dark&hide_title=true&layout=compact&langs_count=8&hide_progress=false&card_width=420" alt="GitHub top-langs Card" />
+  <img height="200" align="center" style="max-width: 100%; width: 420px;" src="https://github-stats-extended.vercel.app/api?username=lagux-coding&show_icons=true&theme=tokyonight&line_height=22" alt="GitHub stats Card" />
 </p>
 
 ---
