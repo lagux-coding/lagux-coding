@@ -25,8 +25,8 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,postgres,redis,docker,nginx,aws,githubactions,linux,bash,ts,react,tailwind,go,git,postman&perline=10" alt="My Tech Stack" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,docker,nginx,aws,githubactions,linux,bash,ts,react,tailwind,go,git,postman&perline=10" alt="My Tech Stack" />
   </a>
 </p>
 
